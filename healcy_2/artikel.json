@@ -1,0 +1,18 @@
+{
+  "articles": [
+    {
+      "id": "artikel1",
+      "linkimage":"https://yankes.kemkes.go.id/img/bg-img/gambarartikel_1659666031_122163.jpg",
+      "title": "Cegah Stunting Sejak dalam Masa Kehamilan",
+      "author": "dr. Dian Fikri Rachmawan, dr. Akbar Novan Dwi Sapu - RSUP dr. Sardjito Yogyakarta",
+      "content": "1000 hari pertama kehidupan sangat penting untuk mencegah stunting. Nutrisi yang cukup sejak pra-konsepsi juga diperlukan. Stunting terjadi saat balita memiliki tinggi badan kurang dari standar WHO. Stunting berdampak pada kematian, gangguan perkembangan, risiko infeksi, dan penyakit tidak menular. Kementerian Kesehatan RI memastikan kebutuhan gizi selama kehamilan terpenuhi. Diversifikasi makanan, fortifikasi, suplementasi, dan pemantauan nutrisi penting. Infeksi pada ibu hamil juga mempengaruhi stunting. ANC terpadu dan edukasi pada ibu hamil dapat mengurangi stunting. Kecukupan nutrisi dan pemeriksaan rutin diperlukan."
+    },
+    {
+      "id": "artikel2",
+      "linkimage":"https://img.okezone.com/infografis/2021/09/12/559/773610/5-olahraga-untuk-ibu-hamil_lwW7GVmoUK.jpg",
+      "title": "5 Olahraga untuk Ibu Hamil",
+      "author": "Bayu Airlangga",
+      "content": "Olahraga disarankan dilakukan Oleh semua orang, termasuk ibu hamil. Ini untuk membuat tubuh lebih sehat. Ibu hamil yang menjalankan oleharaga harus dengan cara yang aman, ikuti saran para ahli kesehatan. Ibu hamil wajib menjaga kesehatan supaya dirinya dan janin yang ada di kandungan selalu dalam keadaan baik. Selain mengonsums makanan bergizi, olahraga menjadi solusinya."
+    }
+  ]
+}
